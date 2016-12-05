@@ -16,7 +16,7 @@ This project will listen to a virtual midi port, and turn the corresponding conn
 ####These are the pins used in the script:
 ```arduino
 
-pinMode(2, OUTPUT);
+pinMode(2,OUTPUT);
 pinMode(3,OUTPUT);
 pinMode(4,OUTPUT);
 pinMode(5,OUTPUT);
