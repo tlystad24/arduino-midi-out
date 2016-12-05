@@ -33,7 +33,7 @@ The LEDs I used does not require resistors. If yours do, connect a resistor in s
 Upload [script](https://github.com/tlystad24/arduino-midi-out/blob/master/sketch.ino) to the Arduino.
 
 ### Set up a virtual midi connection
-On Mac i used "Audio Midi Setup"
+On Mac I used "Audio Midi Setup"
 
 Create two virtual MIDI ports: one _from_ software, and one _to_ software.
 
