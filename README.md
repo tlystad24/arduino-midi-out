@@ -1,4 +1,4 @@
-# arduino-midi-out
+# Arduino MIDI LED Light Show
 
 This project will listen to a virtual midi port, and turn the corresponding connected LED.
 
@@ -23,3 +23,6 @@ The LEDs I used does not require resistors. If yours do, connect a resistor in s
 
 ## Software Setup
 Upload [script](https://github.com/tlystad24/arduino-midi-out/blob/master/sketch.ino) to the Arduino.
+
+### Set up a virtual midi connection
+On Mac i used "Audio Midi Setup"
