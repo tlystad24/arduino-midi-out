@@ -5,7 +5,7 @@ This project will listen to a virtual midi port, and turn the corresponding conn
 
 - Arduino
 - 5 or more LEDs
-- wire
+- Wire
 - Virtual MIDI port configurator
 - [Serial to midi converter](http://www.spikenzielabs.com/SpikenzieLabs/Serial_MIDI.html)
 - [Software to send midi](http://www.manyetas.com/creed/midikeys.html)
@@ -34,3 +34,12 @@ Upload [script](https://github.com/tlystad24/arduino-midi-out/blob/master/sketch
 
 ### Set up a virtual midi connection
 On Mac i used "Audio Midi Setup"
+
+Create two virtual MIDI ports: one _from_ software, and one _to_ software.
+
+Open the serial<>midi converter, and select your Arduino's serial port, the midi *INPUT* port and the midi *OUTPUT* port.
+
+Open _MidiKeys_ and configure it to the virtual ports.
+
+
+
