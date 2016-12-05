@@ -1,6 +1,14 @@
 # Arduino MIDI LED Light Show
 
 This project will listen to a virtual midi port, and turn the corresponding connected LED.
+# Parts / Software required:
+
+- Arduino
+- 5 or more LEDs
+- wire
+- Virtual MIDI port configurator
+- [Serial to midi converter](http://www.spikenzielabs.com/SpikenzieLabs/Serial_MIDI.html)
+- [Software to send midi](http://www.manyetas.com/creed/midikeys.html)
 
 ## Hardware Setup
 ### Connect the LEDs to the Arduino as following:
