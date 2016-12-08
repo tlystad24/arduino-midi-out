@@ -43,7 +43,7 @@ Open _MidiKeys_ and configure it to the virtual ports.
 
 ## Images
 
-<img width="300" alt="overview" src="https://raw.githubusercontent.com/tlystad24/arduino-midi-out/master/images/IMG_2928.JPG?token=ARuLtO4PNNkHpPkAa9-BSZhwF060W2kZks5YUttwwA%3D%3D"> <img width="300" alt="overview2" src="https://raw.githubusercontent.com/tlystad24/arduino-midi-out/master/images/IMG_2927.JPG?token=ARuLtB7SaQf7sRuTSGLbNIUJm9uLnx7Sks5YUt1nwA%3D%3D">
+<img width="339" alt="overview" src="https://raw.githubusercontent.com/tlystad24/arduino-midi-out/master/images/IMG_2928.JPG?token=ARuLtO4PNNkHpPkAa9-BSZhwF060W2kZks5YUttwwA%3D%3D"> <img width="300" alt="overview2" src="https://raw.githubusercontent.com/tlystad24/arduino-midi-out/master/images/IMG_2927.JPG?token=ARuLtB7SaQf7sRuTSGLbNIUJm9uLnx7Sks5YUt1nwA%3D%3D">
 
 
 
