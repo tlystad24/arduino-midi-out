@@ -35,7 +35,7 @@ void loop () {
  
  
 void lightLed(byte note, int value){
- if(note>=65 && note<=69){
-   digitalWrite(note-63, value);
+ if(note>=65 && note<=69){ //borders. Since we are using 5 LEDs, the border is within a 5-note range.
+   digitalWrite(note-63, value); //This line is converting to pins. If the note is 65 and we remove 63, the result becomes pin 2.
  }
 }
