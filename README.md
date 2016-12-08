@@ -9,6 +9,7 @@ This project will listen to a virtual midi port, and turn the corresponding conn
 - Virtual MIDI port configurator
 - [Serial to midi converter](http://www.spikenzielabs.com/SpikenzieLabs/Serial_MIDI.html)
 - [Software to send midi](http://www.manyetas.com/creed/midikeys.html)
+- Processing to run the MIDI -> serial converter
 
 ## Hardware Setup
 ### Connect the LEDs to the Arduino as following:
