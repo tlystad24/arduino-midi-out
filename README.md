@@ -14,7 +14,7 @@ This project will listen to a virtual midi port, and turn the corresponding conn
 ## Hardware Setup
 ### Connect the LEDs to the Arduino as following:
 
-####These are the pins used in the script:
+#### These are the pins used in the script:
 ```arduino
 
 pinMode(2,OUTPUT);
